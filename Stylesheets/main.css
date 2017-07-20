@@ -1,0 +1,15 @@
+.navbar {
+    overflow: hidden;
+    position: fixed;
+    background-color: gray;
+    top: 0;
+    width: 100%;
+}
+
+.navbar ul li {
+    float:left;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    padding: 5%;
+}
